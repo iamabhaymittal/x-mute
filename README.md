@@ -2,7 +2,7 @@
 
 A Chrome extension that allows you to quickly mute words on X.com (formerly Twitter) with just a right-click. No more navigating through settings menus - simply select text, right-click, and mute!
 
-![Extension Demo](docs/demo.gif)
+![Extension Demo](https://s4.gifyu.com/images/bpahU.gif)
 
 ## Features
 
